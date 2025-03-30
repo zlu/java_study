@@ -34,7 +34,7 @@ public class InterfaceExample {
       myDog.makeSound(); // Output: Dog barks.
       myCat.makeSound(); // Output: Cat meows.
 
-      // myDog.eat();
+    //   myDog.eat();
       Dog dog = (Dog) myDog;
       dog.eat();
   }
